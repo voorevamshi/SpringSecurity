@@ -1,4 +1,4 @@
-package com.vmc.spring.secuirty;
+package com.vmc.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
